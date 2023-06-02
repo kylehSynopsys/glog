@@ -1,0 +1,9 @@
+build_cmd: CMake
+build_dir: /var/lib/jenkins/workspace/CPP-Scan-Test
+skip_build: False
+verbose: True
+project_name: GLog-C++
+project_version: 1
+bd_url: https://us1a-imp-hub11.nprd.sig.synopsys.com
+api_token: YTRjMTI4M2MtNGM1YS00YWU4LTkzZGItYWU0MDA1YzI0NGU2Ojk4ODhhYWE2LTU3OTctNDg5Zi05YjZjLTljNWE3ZGNmN2EwMg==
+insecure: True
