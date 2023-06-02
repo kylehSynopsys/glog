@@ -1,4 +1,4 @@
-build_cmd: CMake
+build_cmd: cmake
 build_dir: /var/lib/jenkins/workspace/CPP-Scan-Test
 skip_build: False
 verbose: True
